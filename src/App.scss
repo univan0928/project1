@@ -1,0 +1,28 @@
+.App {
+    padding: 100px;
+    .assessment-page {
+        margin-bottom: 100px;
+    }
+    .error {
+        font-size: 15px;
+        color: red;
+        padding-left: 114px;
+    }
+    .result {
+        font-size: 50px;
+        font-weight: 700;
+        color: #009900;
+        text-align: center;
+    }
+    .button {
+        font-size: 15px;
+        font-weight: 500;
+        letter-spacing: 1px;
+        border: none;
+        padding: 10px 25px;
+        background-color: rgb(236, 236, 236);
+    }
+    .button:hover {
+        background-color: rgb(206, 206, 206);
+    }
+}
